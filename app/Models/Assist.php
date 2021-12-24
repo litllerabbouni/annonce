@@ -17,7 +17,8 @@ class Assist extends Model
         'added_at',
         'study_id',
         'amount',
-        'deleted_at'
+        'deleted_at',
+        'Rolyx'
     ];
     
 }
